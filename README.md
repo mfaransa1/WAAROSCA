@@ -42,8 +42,6 @@ Use the following credentials to test or demo the application:
 - **Email:** `test@gmail.com`
 - **Password:** `Tuwxmghn1`
 
-> ⚠️ For security, please change credentials in production environments.
-
 ---
 
 ## 🚀 Features
@@ -179,7 +177,4 @@ To use M-Pesa or PayPal:
 
 ## 🧪 Testing the Application
 
-You can now log in using the demo credentials provided:
-
-- **Admin:** `admin@gmail.com` / `Aumnchde2`
-- **Staff:** `test@gmail.com` / `Tuwxmghn1`
+You can now log in using the demo credentials provided
